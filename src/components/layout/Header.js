@@ -15,7 +15,7 @@ const propTypes = {
 const defaultProps = {
   navPosition: '',
   hideNav: false,
-  hideSignin: false,
+  hideSignin: true,
   bottomOuterDivider: false,
   bottomDivider: false
 }
@@ -112,8 +112,12 @@ const Header = ({
                       navPosition && `header-nav-${navPosition}`
                     )}>
                     <li>
-                      <Link to="#0" onClick={closeMenu}>Documentation</Link>
+                      <Link to="#0" onClick={closeMenu}>Discord</Link>
                     </li>
+                    <li>
+                    <Link to="#0" onClick={closeMenu}>Twitter</Link>
+                    </li>
+
                   </ul>
                   {!hideSignin &&
                     <ul
