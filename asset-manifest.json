@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/world-hashcode/static/css/main.91910c16.chunk.css",
-    "main.js": "/world-hashcode/static/js/main.543666dc.chunk.js",
-    "main.js.map": "/world-hashcode/static/js/main.543666dc.chunk.js.map",
+    "main.js": "/world-hashcode/static/js/main.286fd35c.chunk.js",
+    "main.js.map": "/world-hashcode/static/js/main.286fd35c.chunk.js.map",
     "runtime-main.js": "/world-hashcode/static/js/runtime-main.aa56c67f.js",
     "runtime-main.js.map": "/world-hashcode/static/js/runtime-main.aa56c67f.js.map",
     "static/js/2.5bc4d18c.chunk.js": "/world-hashcode/static/js/2.5bc4d18c.chunk.js",
     "static/js/2.5bc4d18c.chunk.js.map": "/world-hashcode/static/js/2.5bc4d18c.chunk.js.map",
     "index.html": "/world-hashcode/index.html",
-    "precache-manifest.396004da93d023b31ff9b6cca05af34d.js": "/world-hashcode/precache-manifest.396004da93d023b31ff9b6cca05af34d.js",
+    "precache-manifest.1f80331b68dbfd146408e8bce435f192.js": "/world-hashcode/precache-manifest.1f80331b68dbfd146408e8bce435f192.js",
     "service-worker.js": "/world-hashcode/service-worker.js",
     "static/css/main.91910c16.chunk.css.map": "/world-hashcode/static/css/main.91910c16.chunk.css.map",
     "static/js/2.5bc4d18c.chunk.js.LICENSE.txt": "/world-hashcode/static/js/2.5bc4d18c.chunk.js.LICENSE.txt",
@@ -29,6 +29,6 @@
     "static/js/runtime-main.aa56c67f.js",
     "static/js/2.5bc4d18c.chunk.js",
     "static/css/main.91910c16.chunk.css",
-    "static/js/main.543666dc.chunk.js"
+    "static/js/main.286fd35c.chunk.js"
   ]
 }
