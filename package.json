@@ -1,6 +1,6 @@
 {
-  "homepage": "http://rabbitrocklime.github.io/world-hashcode",
-  "name": "open-react-template",
+  "homepage": "http://rabbitrocklime.github.io",
+  "name": "world-hashcode",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -12,10 +12,6 @@
     "react-ga": "^2.7.0",
     "react-router-dom": "^5.1.2",
     "react-scripts": "^3.4.1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/cruip/open-react-template.git"
   },
   "scripts": {
     "predeploy": "npm run build",
